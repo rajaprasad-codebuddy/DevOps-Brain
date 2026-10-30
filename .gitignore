@@ -1,0 +1,27 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials
+credentials.*
+secrets.*
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+
+# Local/editor files
+.DS_Store
+.idea/
+.vscode/
+.venv/
+__pycache__/
+*.pyc
+
+# Local scratch
+.tmp/
+scratch/
