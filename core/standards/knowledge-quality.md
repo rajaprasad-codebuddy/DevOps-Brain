@@ -1,3 +1,13 @@
+---
+title: "Knowledge quality standard"
+category: standard
+technology: general
+status: CONFIRMED
+created: 2026-10-30
+last_verified: 2026-10-30
+source: "Repository policy (adopted in initial setup)"
+---
+
 # Knowledge quality standard
 
 ## Required metadata for project-specific facts
